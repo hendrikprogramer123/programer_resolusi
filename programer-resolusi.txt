@@ -2,4 +2,4 @@ Programer Masa depan
 - konsisten untuk membuat konten 2x seminggu
 - membuat platform untuk pengelolaan video
 - membuat forum diskusi
-- membuat sebuah web denan html dan css
+- membuat sebuah web dengan html dan css
